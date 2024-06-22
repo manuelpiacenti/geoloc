@@ -1,8 +1,6 @@
 #!/bin/bash
 
-echo "Hello, please enter ASN..."
-
-echo -n "ASN to get geoloc of ASN prefix: "
+echo -n "Hello, please enter ASN..."
 read -r as
 
 re='^[0-9]+$'
