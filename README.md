@@ -10,3 +10,11 @@ Use this homely bash script to get MaxMind geolocation from RIPE.
 - jq
 
 ```apt install whois jq```
+
+## Getting permission to execute it
+
+```chmod +x getgeoloc.sh```
+
+## Run with
+
+```./getgeoloc.sh```
