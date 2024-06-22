@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n "Hello, please enter ASN..."
+echo -n "Hello, please enter ASN: "
 read -r as
 
 re='^[0-9]+$'
